@@ -1,3 +1,2 @@
-- 👋 Hi, I’m Ramil Safin (ラミル　サフィン)!
-- 👀 I’m interested in mobile robotics and computer vision. 
-- 📫 Feel free to reach me on Telegram: @safin_ramil.
+- Hi, I’m Ramil Safin.
+- Interested in mobile robotics, computer vision, computer graphics.
